@@ -2291,7 +2291,7 @@ However, what you see does represent how
 will break the lines.
 .page 438
 .PP
-.ix[.so] request %key so request
+.ix [.so] request %key so request
 .ix [troff] formatter, [.so] request %key troff formatter, [.so] request 
 Now, by typing in you macros (or reading them in from
 existing files with the
