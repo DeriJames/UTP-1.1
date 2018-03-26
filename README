@@ -1,0 +1,7 @@
+Version 1.1 of the UTP book project builds the book with a pdf overview
+and a clickable index. To build:-
+
+make clean
+make
+
+Deri James 2018
